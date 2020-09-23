@@ -1,0 +1,43 @@
+body {
+  background-color: #e3fdfd;
+  align-content: center;
+}
+img {
+  height: 100%;
+  display: inline;
+  width: auto;
+  margin: 0% auto;
+}
+hr {
+  border-style: dotted none none;
+  border-color: #a6e3e9;
+  border-width: 7px;
+  height: 0px;
+  width: 8%;
+}
+
+h1 {
+  color: #71c9ce;
+}
+
+h3 {
+  color: #71c9ce;
+}
+
+h4 {
+  color: #71c9ce;
+}
+
+/************************* class selector **********************************/
+
+.propic {
+  background-color: beige;
+  width: 128px;
+  height: 128px;
+}
+
+.circular {
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
